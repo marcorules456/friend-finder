@@ -1,0 +1,28 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "find friends",
+  "main": "(server.js) (app.js) ) (friends.js) (htmlRoute.js) ",
+  "scripts": {
+    "test": "h",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcorules456/friend-finder.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "marco khodr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcorules456/friend-finder/issues"
+  },
+  "homepage": "https://github.com/marcorules456/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,42 @@
+
+.btn {
+	margin-top:2%;
+}
+.start {
+	
+	text-align:center;
+	
+
+
+
+}
+.flora2 {
+	width:180px;
+	height:300px;
+	margin-right:100%;
+
+}
+.flora {
+	width:180px;
+	height:300px;
+	margin-left:35%;
+}
+body {
+	background-color: url("web.jpg");
+	font-family: acme;
+}
+input {
+	width:40%;
+}
+
+.heading {
+	margin-left:25%;
+	border:3px black solid;
+	border-radius:8px;
+	margin-bottom:10px;
+}
+.survey {
+	margin-left:30%;
+	border:2px solid black;
+	border-radius:7px;
+}
