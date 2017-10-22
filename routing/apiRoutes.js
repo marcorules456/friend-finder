@@ -17,10 +17,12 @@ module.exports = function (app) {
 
 
 
-
+ // form data added to an json file then scores are calculated for matches
 	app.post('../api/friends', function(req, res){
 
 		var newFriend = req.body;
+
+		var friendList = [];
 
 
 
